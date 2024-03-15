@@ -1,0 +1,420 @@
+﻿[14:12:00:083] Send: reg_readComp 1248 0 0 0 1 24 24 0x00000000
+[14:12:00:099] Receive: Max: 616
+[14:12:00:115] Receive: Sum: 8154
+[14:12:00:115] Receive: Read done (71 us)
+87/170
+[14:12:00:130] Send: reg_readComp 1248 0 0 0 1 25 25 0xFFFFFFFF
+[14:12:00:146] Receive: Max: 2
+[14:12:00:161] Receive: Sum: 2
+[14:12:00:177] Receive: Read done (90 us)
+88/170
+[14:12:00:193] Send: reg_readComp 1248 0 0 0 1 26 26 0xFFFFFFFF
+[14:12:00:208] Receive: Max: 0
+[14:12:00:208] Receive: Sum: 0
+[14:12:00:224] Receive: Read done (71 us)
+89/170
+[14:12:00:240] Send: reg_readComp 1248 0 0 0 1 27 27 0x00000000
+[14:12:00:255] Receive: Max: 110
+[14:12:00:271] Receive: Sum: 1178
+[14:12:00:271] Receive: Read done (71 us)
+90/170
+[14:12:00:286] Send: reg_readComp 1248 0 0 0 1 28 28 0xFFFFFFFF
+[14:12:00:302] Receive: Max: 1
+[14:12:00:318] Receive: Sum: 2
+[14:12:00:333] Receive: Read done (91 us)
+91/170
+[14:12:00:349] Send: reg_readComp 1248 0 0 0 1 29 29 0xFFFFFFFF
+[14:12:00:364] Receive: Max: 0
+[14:12:00:380] Receive: Sum: 0
+[14:12:00:380] Receive: Read done (71 us)
+92/170
+[14:12:00:396] Send: reg_readComp 1248 0 0 0 1 30 30 0x00000000
+[14:12:00:427] Receive: Max: 78
+[14:12:00:427] Receive: Sum: 839
+[14:12:00:443] Receive: Read done (71 us)
+93/170
+[14:12:00:458] Send: reg_readComp 1248 0 0 0 1 31 31 0xFFFFFFFF
+[14:12:00:474] Receive: Max: 0
+[14:12:00:489] Receive: Sum: 0
+[14:12:00:489] Receive: Read done (90 us)
+94/170
+[14:12:00:505] Send: reg_readComp 1248 0 0 0 1 32 32 0xFFFFFFFF
+[14:12:00:521] Receive: Max: 0
+[14:12:00:536] Receive: Sum: 0
+[14:12:00:536] Receive: Read done (71 us)
+95/170
+[14:12:00:552] Send: reg_readComp 1248 0 0 0 1 33 33 0x00000000
+[14:12:00:583] Receive: Max: 83
+[14:12:00:599] Receive: Sum: 955
+[14:12:00:614] Receive: Read done (71 us)
+96/170
+[14:12:00:630] Send: reg_readComp 1248 0 0 0 1 34 34 0xFFFFFFFF
+[14:12:00:646] Receive: Max: 1
+[14:12:00:661] Receive: Sum: 2
+[14:12:00:661] Receive: Read done (91 us)
+97/170
+[14:12:00:677] Send: reg_readComp 1248 0 0 0 1 35 35 0xFFFFFFFF
+[14:12:00:693] Receive: Max: 0
+[14:12:00:708] Receive: Sum: 0
+[14:12:00:724] Receive: Read done (71 us)
+98/170
+[14:12:00:739] Send: reg_readComp 1248 0 0 0 1 48 48 0x00000000
+[14:12:00:755] Receive: Max: 0
+[14:12:00:771] Receive: Sum: 0
+[14:12:00:771] Receive: Read done (71 us)
+99/170
+[14:12:00:786] Send: reg_readComp 1248 0 0 0 1 49 49 0x00000000
+[14:12:00:802] Receive: Max: 28
+[14:12:00:818] Receive: Sum: 330
+[14:12:00:833] Receive: Read done (90 us)
+100/170
+[14:12:00:849] Send: reg_readComp 1248 0 0 0 1 50 50 0xFFFFFFFF
+[14:12:00:864] Receive: Max: 1
+[14:12:00:864] Receive: Sum: 4
+[14:12:00:880] Receive: Read done (71 us)
+101/170
+[14:12:00:896] Send: reg_readComp 1248 0 0 0 1 51 51 0x00000000
+[14:12:00:911] Receive: Max: 0
+[14:12:00:927] Receive: Sum: 0
+[14:12:00:927] Receive: Read done (72 us)
+102/170
+[14:12:00:958] Send: reg_readComp 1248 0 0 0 1 52 52 0x00000000
+[14:12:00:974] Receive: Max: 34
+[14:12:00:974] Receive: Sum: 308
+[14:12:00:989] Receive: Read done (90 us)
+103/170
+[14:12:01:021] Send: reg_readComp 1248 0 0 0 1 53 53 0xFFFFFFFF
+[14:12:01:036] Receive: Max: 2
+[14:12:01:052] Receive: Sum: 11
+[14:12:01:052] Receive: Read done (71 us)
+104/170
+[14:12:01:083] Send: reg_readComp 1248 0 0 0 1 54 54 0x00000000
+[14:12:01:099] Receive: Max: 0
+[14:12:01:099] Receive: Sum: 0
+[14:12:01:114] Receive: Read done (72 us)
+105/170
+[14:12:01:130] Send: reg_readComp 1248 0 0 0 1 55 55 0x00000000
+[14:12:01:161] Receive: Max: 30
+[14:12:01:177] Receive: Sum: 263
+[14:12:01:177] Receive: Read done (90 us)
+106/170
+[14:12:01:192] Send: reg_readComp 1248 0 0 0 1 56 56 0xFFFFFFFF
+[14:12:01:224] Receive: Max: 3
+[14:12:01:224] Receive: Sum: 6
+[14:12:01:239] Receive: Read done (71 us)
+107/170
+[14:12:01:255] Send: reg_readComp 1248 0 0 0 1 57 57 0x00000000
+[14:12:01:271] Receive: Max: 0
+[14:12:01:286] Receive: Sum: 0
+[14:12:01:286] Receive: Read done (72 us)
+108/170
+[14:12:01:302] Send: reg_readComp 1248 0 0 0 1 58 58 0x00000000
+[14:12:01:317] Receive: Max: 29
+[14:12:01:333] Receive: Sum: 278
+[14:12:01:349] Receive: Read done (90 us)
+109/170
+[14:12:01:364] Send: reg_readComp 1248 0 0 0 1 59 59 0xFFFFFFFF
+[14:12:01:380] Receive: Max: 1
+[14:12:01:380] Receive: Sum: 5
+[14:12:01:395] Receive: Read done (71 us)
+110/170
+[14:12:01:411] Send: reg_readComp 1248 0 0 0 1 72 72 0x00000000
+[14:12:01:427] Receive: Max: 0
+[14:12:01:442] Receive: Sum: 0
+[14:12:01:442] Receive: Read done (72 us)
+111/170
+[14:12:01:458] Send: reg_readComp 1248 0 0 0 1 73 73 0x00000000
+[14:12:01:489] Receive: Max: 3
+[14:12:01:489] Receive: Sum: 8
+[14:12:01:505] Receive: Read done (91 us)
+112/170
+[14:12:01:520] Send: reg_readComp 1248 0 0 0 1 74 74 0x00000000
+[14:12:01:536] Receive: Max: 38
+[14:12:01:552] Receive: Sum: 472
+[14:12:01:567] Receive: Read done (71 us)
+113/170
+[14:12:01:583] Send: reg_readComp 1248 0 0 0 1 75 75 0x00000000
+[14:12:01:599] Receive: Max: 0
+[14:12:01:614] Receive: Sum: 0
+[14:12:01:614] Receive: Read done (71 us)
+114/170
+[14:12:01:645] Send: reg_readComp 1248 0 0 0 1 76 76 0x00000000
+[14:12:01:661] Receive: Max: 2
+[14:12:01:661] Receive: Sum: 13
+[14:12:01:677] Receive: Read done (90 us)
+115/170
+[14:12:01:692] Send: reg_readComp 1248 0 0 0 1 77 77 0x00000000
+[14:12:01:708] Receive: Max: 41
+[14:12:01:724] Receive: Sum: 484
+[14:12:01:739] Receive: Read done (72 us)
+116/170
+[14:12:01:755] Send: reg_readComp 1248 0 0 0 1 78 78 0x00000000
+[14:12:01:770] Receive: Max: 0
+[14:12:01:770] Receive: Sum: 0
+[14:12:01:786] Receive: Read done (71 us)
+117/170
+[14:12:01:802] Send: reg_readComp 1248 0 0 0 1 79 79 0x00000000
+[14:12:01:817] Receive: Max: 1
+[14:12:01:833] Receive: Sum: 4
+[14:12:01:833] Receive: Read done (91 us)
+118/170
+[14:12:01:864] Send: reg_readComp 1248 0 0 0 1 80 80 0x00000000
+[14:12:01:880] Receive: Max: 42
+[14:12:01:880] Receive: Sum: 477
+[14:12:01:895] Receive: Read done (71 us)
+119/170
+[14:12:01:911] Send: reg_readComp 1248 0 0 0 1 81 81 0x00000000
+[14:12:01:927] Receive: Max: 0
+[14:12:01:942] Receive: Sum: 0
+[14:12:01:958] Receive: Read done (71 us)
+120/170
+[14:12:01:973] Send: reg_readComp 1248 0 0 0 1 82 82 0x00000000
+[14:12:01:989] Receive: Max: 3
+[14:12:02:005] Receive: Sum: 11
+[14:12:02:020] Receive: Read done (90 us)
+121/170
+[14:12:02:036] Send: reg_readComp 1248 0 0 0 1 83 83 0x00000000
+[14:12:02:052] Receive: Max: 41
+[14:12:02:067] Receive: Sum: 427
+[14:12:02:067] Receive: Read done (71 us)
+122/170
+[14:12:02:083] Send: reg_readComp 1248 0 0 0 1 96 96 0x00000000
+[14:12:02:114] Receive: Max: 2
+[14:12:02:130] Receive: Sum: 7
+[14:12:02:145] Receive: Read done (72 us)
+123/170
+[14:12:02:161] Send: reg_readComp 1248 0 0 0 1 97 97 0xFFFFFFFF
+[14:12:02:177] Receive: Max: 30
+[14:12:02:192] Receive: Sum: 314
+[14:12:02:223] Receive: Read done (91 us)
+124/170
+[14:12:02:239] Send: reg_readComp 1248 0 0 0 1 98 98 0x00000000
+[14:12:02:255] Receive: Max: 0
+[14:12:02:270] Receive: Sum: 0
+[14:12:02:270] Receive: Read done (71 us)
+125/170
+[14:12:02:286] Send: reg_readComp 1248 0 0 0 1 99 99 0x00000000
+[14:12:02:302] Receive: Max: 2
+[14:12:02:317] Receive: Sum: 8
+[14:12:02:333] Receive: Read done (71 us)
+126/170
+[14:12:02:348] Send: reg_readComp 1248 0 0 0 1 100 100 0xFFFFFFFF
+[14:12:02:364] Receive: Max: 26
+[14:12:02:364] Receive: Sum: 289
+[14:12:02:380] Receive: Read done (91 us)
+127/170
+[14:12:02:395] Send: reg_readComp 1248 0 0 0 1 101 101 0x00000000
+[14:12:02:411] Receive: Max: 0
+[14:12:02:426] Receive: Sum: 0
+[14:12:02:442] Receive: Read done (72 us)
+128/170
+[14:12:02:458] Send: reg_readComp 1248 0 0 0 1 102 102 0x00000000
+[14:12:02:473] Receive: Max: 2
+[14:12:02:489] Receive: Sum: 8
+[14:12:02:489] Receive: Read done (71 us)
+129/170
+[14:12:02:505] Send: reg_readComp 1248 0 0 0 1 103 103 0xFFFFFFFF
+[14:12:02:520] Receive: Max: 26
+[14:12:02:536] Receive: Sum: 324
+[14:12:02:551] Receive: Read done (90 us)
+130/170
+[14:12:02:567] Send: reg_readComp 1248 0 0 0 1 104 104 0x00000000
+[14:12:02:583] Receive: Max: 0
+[14:12:02:598] Receive: Sum: 0
+[14:12:02:598] Receive: Read done (71 us)
+131/170
+[14:12:02:614] Send: reg_readComp 1248 0 0 0 1 105 105 0x00000000
+[14:12:02:630] Receive: Max: 3
+[14:12:02:645] Receive: Sum: 14
+[14:12:02:661] Receive: Read done (71 us)
+132/170
+[14:12:02:676] Send: reg_readComp 1248 0 0 0 1 106 106 0xFFFFFFFF
+[14:12:02:692] Receive: Max: 33
+[14:12:02:708] Receive: Sum: 350
+[14:12:02:708] Receive: Read done (91 us)
+133/170
+[14:12:02:739] Send: reg_readComp 1248 0 0 0 1 107 107 0x00000000
+[14:12:02:755] Receive: Max: 0
+[14:12:02:755] Receive: Sum: 0
+[14:12:02:770] Receive: Read done (71 us)
+134/170
+[14:12:02:786] Send: reg_readComp 1248 0 0 0 1 120 120 0xFFFFFFFF
+[14:12:02:801] Receive: Max: 21
+[14:12:02:817] Receive: Sum: 218
+[14:12:02:817] Receive: Read done (72 us)
+135/170
+[14:12:02:848] Send: reg_readComp 1248 0 0 0 1 121 121 0xFFFFFFFF
+[14:12:02:864] Receive: Max: 2
+[14:12:02:864] Receive: Sum: 6
+[14:12:02:880] Receive: Read done (91 us)
+136/170
+[14:12:02:895] Send: reg_readComp 1248 0 0 0 1 122 122 0x00000000
+[14:12:02:911] Receive: Max: 0
+[14:12:02:926] Receive: Sum: 0
+[14:12:02:942] Receive: Read done (72 us)
+137/170
+[14:12:02:958] Send: reg_readComp 1248 0 0 0 1 123 123 0xFFFFFFFF
+[14:12:02:973] Receive: Max: 31
+[14:12:02:989] Receive: Sum: 279
+[14:12:02:989] Receive: Read done (72 us)
+138/170
+[14:12:03:004] Send: reg_readComp 1248 0 0 0 1 124 124 0xFFFFFFFF
+[14:12:03:020] Receive: Max: 2
+[14:12:03:036] Receive: Sum: 8
+[14:12:03:051] Receive: Read done (91 us)
+139/170
+[14:12:03:067] Send: reg_readComp 1248 0 0 0 1 125 125 0x00000000
+[14:12:03:083] Receive: Max: 0
+[14:12:03:098] Receive: Sum: 0
+[14:12:03:098] Receive: Read done (71 us)
+140/170
+[14:12:03:114] Send: reg_readComp 1248 0 0 0 1 126 126 0xFFFFFFFF
+[14:12:03:145] Receive: Max: 29
+[14:12:03:145] Receive: Sum: 288
+[14:12:03:161] Receive: Read done (71 us)
+141/170
+[14:12:03:176] Send: reg_readComp 1248 0 0 0 1 127 127 0xFFFFFFFF
+[14:12:03:192] Receive: Max: 1
+[14:12:03:208] Receive: Sum: 7
+[14:12:03:223] Receive: Read done (91 us)
+142/170
+[14:12:03:239] Send: reg_readComp 1248 0 0 0 1 128 128 0x00000000
+[14:12:03:255] Receive: Max: 0
+[14:12:03:255] Receive: Sum: 0
+[14:12:03:270] Receive: Read done (72 us)
+143/170
+[14:12:03:286] Send: reg_readComp 1248 0 0 0 1 129 129 0xFFFFFFFF
+[14:12:03:317] Receive: Max: 22
+[14:12:03:333] Receive: Sum: 289
+[14:12:03:348] Receive: Read done (72 us)
+144/170
+[14:12:03:364] Send: reg_readComp 1248 0 0 0 1 130 130 0xFFFFFFFF
+[14:12:03:379] Receive: Max: 2
+[14:12:03:395] Receive: Sum: 4
+[14:12:03:395] Receive: Read done (90 us)
+145/170
+[14:12:03:411] Send: reg_readComp 1248 0 0 0 1 131 131 0x00000000
+[14:12:03:426] Receive: Max: 0
+[14:12:03:442] Receive: Sum: 0
+[14:12:03:457] Receive: Read done (72 us)
+146/170
+[14:12:03:473] Send: reg_readComp 1248 0 0 0 1 144 144 0xFFFFFFFF
+[14:12:03:489] Receive: Max: 0
+[14:12:03:504] Receive: Sum: 0
+[14:12:03:504] Receive: Read done (71 us)
+147/170
+[14:12:03:520] Send: reg_readComp 1248 0 0 0 1 145 145 0x00000000
+[14:12:03:536] Receive: Max: 17
+[14:12:03:551] Receive: Sum: 184
+[14:12:03:567] Receive: Read done (90 us)
+148/170
+[14:12:03:582] Send: reg_readComp 1248 0 0 0 1 146 146 0x00000000
+[14:12:03:598] Receive: Max: 1
+[14:12:03:598] Receive: Sum: 1
+[14:12:03:614] Receive: Read done (71 us)
+149/170
+[14:12:03:629] Send: reg_readComp 1248 0 0 0 1 147 147 0xFFFFFFFF
+[14:12:03:645] Receive: Max: 0
+[14:12:03:661] Receive: Sum: 0
+[14:12:03:676] Receive: Read done (72 us)
+150/170
+[14:12:03:692] Send: reg_readComp 1248 0 0 0 1 148 148 0x00000000
+[14:12:03:707] Receive: Max: 18
+[14:12:03:723] Receive: Sum: 179
+[14:12:03:723] Receive: Read done (91 us)
+151/170
+[14:12:03:739] Send: reg_readComp 1248 0 0 0 1 149 149 0x00000000
+[14:12:03:754] Receive: Max: 0
+[14:12:03:770] Receive: Sum: 0
+[14:12:03:786] Receive: Read done (71 us)
+152/170
+[14:12:03:801] Send: reg_readComp 1248 0 0 0 1 150 150 0xFFFFFFFF
+[14:12:03:817] Receive: Max: 0
+[14:12:03:832] Receive: Sum: 0
+[14:12:03:832] Receive: Read done (72 us)
+153/170
+[14:12:03:848] Send: reg_readComp 1248 0 0 0 1 151 151 0x00000000
+[14:12:03:895] Receive: Max: 20
+[14:12:03:895] Receive: Sum: 184
+[14:12:03:911] Receive: Read done (90 us)
+154/170
+[14:12:03:926] Send: reg_readComp 1248 0 0 0 1 152 152 0x00000000
+[14:12:03:942] Receive: Max: 1
+[14:12:03:957] Receive: Sum: 1
+[14:12:03:957] Receive: Read done (72 us)
+155/170
+[14:12:03:989] Send: reg_readComp 1248 0 0 0 1 153 153 0xFFFFFFFF
+[14:12:04:004] Receive: Max: 0
+[14:12:04:004] Receive: Sum: 0
+[14:12:04:020] Receive: Read done (72 us)
+156/170
+[14:12:04:035] Send: reg_readComp 1248 0 0 0 1 154 154 0x00000000
+[14:12:04:051] Receive: Max: 14
+[14:12:04:067] Receive: Sum: 144
+[14:12:04:067] Receive: Read done (91 us)
+157/170
+[14:12:04:098] Send: reg_readComp 1248 0 0 0 1 155 155 0x00000000
+[14:12:04:114] Receive: Max: 0
+[14:12:04:114] Receive: Sum: 0
+[14:12:04:129] Receive: Read done (71 us)
+158/170
+[14:12:04:145] Send: reg_readComp 1248 0 0 0 1 153 153 0xFFFFFFFF
+[14:12:04:160] Receive: Max: 0
+[14:12:04:176] Receive: Sum: 0
+[14:12:04:176] Receive: Read done (71 us)
+159/170
+[14:12:04:207] Send: reg_readComp 1248 0 0 0 1 154 154 0x00000000
+[14:12:04:223] Receive: Max: 18
+[14:12:04:239] Receive: Sum: 160
+[14:12:04:239] Receive: Read done (91 us)
+160/170
+[14:12:04:254] Send: reg_readComp 1248 0 0 0 1 155 155 0x00000000
+[14:12:04:301] Receive: Max: 0
+[14:12:04:301] Receive: Sum: 0
+[14:12:04:317] Receive: Read done (71 us)
+161/170
+[14:12:04:332] Send: reg_readComp 1248 0 0 0 1 156 156 0xFFFFFFFF
+[14:12:04:348] Receive: Max: 0
+[14:12:04:364] Receive: Sum: 0
+[14:12:04:379] Receive: Read done (72 us)
+162/170
+[14:12:04:395] Send: reg_readComp 1248 0 0 0 1 157 157 0x00000000
+[14:12:04:410] Receive: Max: 33
+[14:12:04:410] Receive: Sum: 402
+[14:12:04:426] Receive: Read done (90 us)
+163/170
+[14:12:04:442] Send: reg_readComp 1248 0 0 0 1 158 158 0x00000000
+[14:12:04:457] Receive: Max: 0
+[14:12:04:473] Receive: Sum: 0
+[14:12:04:488] Receive: Read done (71 us)
+164/170
+[14:12:04:504] Send: reg_readComp 1248 0 0 0 1 159 159 0xFFFFFFFF
+[14:12:04:520] Receive: Max: 0
+[14:12:04:535] Receive: Sum: 0
+[14:12:04:535] Receive: Read done (71 us)
+165/170
+[14:12:04:567] Send: reg_readComp 1248 0 0 0 1 160 160 0x00000000
+[14:12:04:582] Receive: Max: 28
+[14:12:04:582] Receive: Sum: 328
+[14:12:04:598] Receive: Read done (91 us)
+166/170
+[14:12:04:613] Send: reg_readComp 1248 0 0 0 1 161 161 0x00000000
+[14:12:04:629] Receive: Max: 0
+[14:12:04:645] Receive: Sum: 0
+[14:12:04:660] Receive: Read done (71 us)
+167/170
+[14:12:04:676] Send: reg_readComp 1248 0 0 0 1 162 162 0xFFFFFFFF
+[14:12:04:692] Receive: Max: 0
+[14:12:04:707] Receive: Sum: 0
+[14:12:04:738] Receive: Read done (72 us)
+168/170
+[14:12:04:754] Send: reg_readComp 1248 0 0 0 1 163 163 0x00000000
+[14:12:04:770] Receive: Max: 32
+[14:12:04:785] Receive: Sum: 410
+[14:12:04:801] Receive: Read done (91 us)
+169/170
+[14:12:04:817] Send: reg_readComp 1248 0 0 0 1 164 164 0x00000000
+[14:12:04:832] Receive: Max: 0
+[14:12:04:848] Receive: Sum: 0
+[14:12:04:863] Receive: Read done (71 us)
+170/170

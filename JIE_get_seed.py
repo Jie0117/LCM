@@ -19,12 +19,31 @@ def FT_scramble(seed, buffer):
         # Update the seed for the next iteration
         seed += 0x35ACCA53
         seed = (seed << 1) | (seed >> 31) & 0xFFFFFFFF
-def mem_write(data,output_path):
-    data.split()
+def header(output_path):
     with open(output_path,'a') as file:
         file.write('switch 2\n')
         file.write('log_level 5\n')
         file.write('allocDTAG\n')
+def mem_write(data,output_path):
+    data.split()
+    with open(output_path,'a') as file:
         for i in range(0,len(data),4):  
             file.write(f"reg_mem_write 0 {i} 0x{data[i]} 0x{data[i+1]} 0x{data[i+2]} 0x{data[i+3]}\n")
-            
+
+blk = input('block')
+ch = input('ch:')
+ce = input('ce')
+plane = input('plane')
+data = 0xa5a5a5a5
+size = 16384
+
+output_path = 'tlc.txt'
+header(output_path)
+for WL in range(0,1):
+    for page in range(0,3):
+        buffer = []
+        for i in range(0,4096):
+                buffer.append(data)  
+        FT_scramble(FT_get_seed(int(blk), int(WL*3+(int(page)-1)), int(ch), int(ce)), buffer)
+        
+print(buffer[0])
